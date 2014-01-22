@@ -1,4 +1,4 @@
 TheQuest
 ========
 
-The Quest (v0.1)
+The Quest ( v0.1 )
