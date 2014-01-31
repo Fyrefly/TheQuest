@@ -1,6 +1,6 @@
 /*** The Quest - 2014 (FBA) ***/
 
-package game.io;
+package ui.io;
 
 /**
  *
