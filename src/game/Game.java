@@ -6,6 +6,8 @@ import game.player.Player;
 
 /**
  *
+ * Representation of a game, including a specified player and map.
+ * 
  * @author FBA
  */
 public class Game {
